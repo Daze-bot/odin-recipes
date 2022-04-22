@@ -1,0 +1,30 @@
+* {
+  background-color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #8aa899;
+}
+
+.homepage {
+  text-align: center;
+  color: #5c6e58;
+}
+
+.home-image {
+  height: auto;
+  width: 375px;
+}
+
+.page-header {
+  color: #5c6e58;
+  font-size: 48px;
+}
+
+#return {
+  color: black;
+  font-size: 24px;
+}
+
+#home-link {
+  color: #5c6e58;
+  font-size: 24px;
+}
